@@ -1,0 +1,76 @@
+ Hero Section:
+
+ -Xylem Studios
+ -The home of world class photography. We at xylem are presenting to you photography at its best. Here we have amassed the best photographers from all parts of the world. You can end your search for expert photographers, here we have them in abundance, and at affordable rates.
+
+
+ Features Section: 
+
+-We offer a range of services.
+-Looking for event photographers?
+  Be assured of excellent work, Xylem has photographers specialised in the art of scene optimization.
+
+-Want to start an art gallery?
+-We have skilled photographers who can help make that a reality. We do not compromise quality.
+
+-About US
+-Xylem is a 10th generation company that was founded in the early 21st century(2002). It is a company that equips and trains photographers with the latest scene catching technology and techniques. Xylem provides a platform for consumers to have access to elite photographers at finely affordable rates. In November 2019 Xylem embarked on a task(Lilly) by........
+
+
+-NEW!
+-Lilly Accademy
+-Want to become a proffesional photographer?
+-You can now enroll in our school of photography.
+
+
+Testimoniaal Section:
+
+Mike Todd
+-Excellent! Beautiful Images everywhere, Xylem photographers are everything they say they are and more.
+
+
+Thomason Jerry
+-I don't flatter much, but I'll confidently say that a one time experience with Xylem is enough to make you stick with them for life.
+
+
+Anna Mitchelle
+-Excellent! Beautiful Images everywhere, Xylem photographers are everything they say they are and more.
+
+
+Johny McDonals
+-Mesmirizing views, excellent! Beautiful Images everywhere, Xylem photographers are everything they say they are and more.
+
+
+Francis
+-Excellent! Beautiful Images everywhere, Xylem photographers are everything they say they are and more.
+
+
+Elina Markel
+-Beautiful Images everywhere, Xylem photographers are everything they say they are and more. Quite magnificent.
+
+  
+Activity Section:
+
+
+
+-We work all times of the day.
+-Get photographers for different occasions. We are available 24/7
+
+-Birthdays parties
+-Weddings
+-Club Parties
+-Parades
+-Nature
+
+
+
+
+CTA Section:
+
+-PURCHASE
+-Start your journey with us.
+-For a better experience register your e-mail with us. You can skip this process by clicking skip.
+
+
+
+note: when using media queries, reduce the width of the textimonial boxes and apply the left class on even numbered testimonial bokes
